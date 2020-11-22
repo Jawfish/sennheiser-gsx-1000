@@ -1,5 +1,5 @@
 ## Sennheiser GSX 1000 Linux fix - I don't care about chat output and only want virtual surround edition
-This is a modification of [evilphish's GSX1000/GSX1200 fix](https://github.com/evilphish/sennheiser-gsx-1000) that only adds virtual surround with **stereo** output and fixes the order of the channels. 
+This is a modification of [evilphish's GSX1000/GSX1200 fix](https://github.com/evilphish/sennheiser-gsx-1000) that only adds support for virtual surround with **stereo** audio sources and fixes the order of the channels. 
 
 Reasons to use: 
 - You don't care about the mono chat output
